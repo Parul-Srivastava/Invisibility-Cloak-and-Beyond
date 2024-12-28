@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pyttsx3
+SpeechRecognition
+pycaw
+screen-brightness-control
+tk
